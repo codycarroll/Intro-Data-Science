@@ -1,16 +1,16 @@
 # BSDS 100: Intro to Data Science with R
 
-## James D. Wilson
+## Cody Carroll
 
-**Email**: jdwilson4@usfca.edu
+**Email**: cjcarroll@usfca.edu
 
-**Class Time**: TR, 9:55 - 11:40 AM in Harney 430
+**Class Time**: 12:45 pm - 2:30 pm,	TR in Cowell 107
 
-**Office Hours**: TR, 12:00 - 12:30 PM in Harney 107B
+**Office Hours**: TBD
 
 **Book**: [R for Data Science](http://r4ds.had.co.nz/index.html) by Hadley Wickham and Garret Grolemund
 
-**Syllabus**: [Link](https://github.com/jdwilson4/Data100_Spring_2017/blob/master/Fall_2017.pdf)
+**Syllabus**: [Link]()
 
 ## Course Learning Outcomes
 
